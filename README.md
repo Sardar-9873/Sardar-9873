@@ -30,6 +30,11 @@ const sahal = {
         "JavaScript"
     ],
 
+    stateManagement: [
+        "Redux",
+        "Redux Toolkit"
+    ],
+
     backend: [
         "Firebase",
         "Supabase"
@@ -42,7 +47,12 @@ const sahal = {
         "Vite"
     ],
 
-    currentlyLearning: "Backend Development",
+    designAndProductivity: [
+        "Microsoft Word",
+        "Canva"
+    ],
+
+    currentlyLearning: "Next.js and Backend Development",
 
     motto: "Code • Learn • Improve • Repeat 🚀"
 }
@@ -54,7 +64,7 @@ const sahal = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,firebase,supabase,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,firebase,supabase,vite,git,github,vscode"/>
 
 </p>
 
@@ -62,29 +72,16 @@ const sahal = {
 
 # 🌟 Featured Projects
 
-## 🎓 StudentMS
+## 🎓 Student Management System
 
 ✔ Student Management System
 
-✔ React + Material UI
+✔ React + Tailwind CSS
 
 ✔ Responsive Dashboard
 
 ✔ Clean UI
 
----
-
-## 🚀 LifeOS
-
-✔ Goal Management
-
-✔ Habit Tracking
-
-✔ Tasks
-
-✔ Finance
-
-✔ Modern Dashboard
 
 ---
 
