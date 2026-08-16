@@ -52,7 +52,7 @@ const sahal = {
         "Canva"
     ],
 
-    currentlyLearning: "Next.js and Backend Development",
+    currentlyLearning: "Next.js and Backend Development at SMIT",
 
     motto: "Code • Learn • Improve • Repeat 🚀"
 }
