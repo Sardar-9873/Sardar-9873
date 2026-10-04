@@ -23,6 +23,7 @@ const sahal = {
     location: "Pakistan 🇵🇰",
 
     frontend: [
+        "Next.js",
         "React",
         "Material UI",
         "HTML",
@@ -32,7 +33,8 @@ const sahal = {
 
     stateManagement: [
         "Redux",
-        "Redux Toolkit"
+        "Redux Toolkit",
+        "Zustand"
     ],
 
     backend: [
@@ -52,7 +54,7 @@ const sahal = {
         "Canva"
     ],
 
-    currentlyLearning: "Next.js and Backend Development at SMIT",
+    currentlyLearning: "Backend Development at SMIT",
 
     motto: "Code • Learn • Improve • Repeat 🚀"
 }
